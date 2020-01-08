@@ -1,5 +1,5 @@
-title: MA533 Ordinary Differential Equations (Fall '19)
-baseurl: /MA533-Clarkson-F19
+title: MA563 Applied Dynamical Systems (Spring 2020)
+baseurl: /MA563-S20
 markdown: kramdown
 kramdown:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables"]
