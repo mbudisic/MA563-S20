@@ -23,7 +23,7 @@ We will devote some time both to theory and to computational tools/methods that 
 * [LM] Lasota, Mackey: "Chaos, Fractals, Noise"
 * [BOLLT] Bollt, Santitissadeekorn: "Applied and Computational Measurable Dynamics"
 
-I will provide you with handouts that cover the material in class, but I suggest that you buy the [ASY] textbook. It's an excellent introduction into dynamical systems, and can be found for $10-$20 used on <http://abebooks.com> and <http://amazon.com>. It's likely my favorite textbook on nonlinear dynamics.
+I will provide you with handouts that cover the material in class, so you don't need to purchase a book. However, I do suggest that you buy the [ASY] textbook if you're interested in dynamical systems (especially if this is your research topic). It's an excellent introduction into dynamical systems, and can be found for $10-$20 used on <http://abebooks.com> and <http://amazon.com>. It's likely my favorite textbook on nonlinear dynamics.
 
 Finally, you should really know what Jurassic Park has to do with dynamical systems...
 
