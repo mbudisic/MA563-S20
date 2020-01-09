@@ -12,3 +12,7 @@
 *[DAEs]: Differential-Algebraic Equations
 *[TBA]: To Be Added
 *[CoCalc]: Online interface to different mathematical languages
+*[ASY]: Alligood, Sauer, Yorke: "Chaos"
+*[BIF]: Kuznetsov: "Elements of Applied Bifurcation Theory"
+*[LM]: Lasota, Mackey: "Chaos, Fractals, Noise"
+*[BOLLT]: Bollt, Santitissadeekorn: "Applied and Computational Measurable Dynamics"
