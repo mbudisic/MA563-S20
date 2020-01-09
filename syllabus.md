@@ -1,6 +1,6 @@
 ---
-title: MAXYZ Syllabus
-description: 'COURSE NAME as taught in SEMESTER by Dr. Marko Budišić'
+title: MA563 Syllabus
+description: 'Applied Dynamical Systems as taught in Spring 2020 by Dr. Marko Budišić, Clarkson University'
 ---
 {::options toc_levels="1..2" /}
 

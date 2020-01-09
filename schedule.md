@@ -1,6 +1,6 @@
 ---
-title: MAXYZ Schedule
-description: 'COURSE NAME as taught in SEMESTER by Dr. Marko Budišić'
+title: MA563 Schedule
+description: 'Applied Dynamical Systems as taught in Spring 2020 by Dr. Marko Budišić, Clarkson University'
 ---
 
 <!-- Copy iframe code from Google Sheets -->
