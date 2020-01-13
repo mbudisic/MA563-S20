@@ -38,13 +38,20 @@ For each of the three topics, we will source the material from different books. 
 
 ### Chaos and maps:
 
+What do we mean when we say that "dynamics is chaotic"? What is a "chaotic attractor"? What are the tools that make this "disordered" behavior into an ordered mathematics, that can be studied precisely.
+
 * ASY Alligood, Kathleen T., Tim Sauer, and James A Yorke. 2010. Chaos : An Introduction to Dynamical Systems. New York, NY ; Springer,.
 
 ### Bifurcations
+
+Often, dynamics of a phenomenon depend on a value of the parameter. Bifurcation theory describes what possible dynamics can arise when a parameter is changed, and what is ruled out.
+
 * [BIF] Kuznetsov: "Elements of Applied Bifurcation Theory"
 * [WIG] Wiggins: "Introduction to Applied Nonlinear Dynamical Systems and Chaos"
 
 ### Statistical description of dynamics
+
+Instead of studying dynamics *geometrically* (trajectories as curves), one can study a collection (distribution) of many trajectories evolving side-by-side. The focus shifts from studying any one trajectory in geometric detail, to studying statistical properties of such distribution (mean, variance, etc.), and operators that represent how such distributions change.
 
 * [LM] Lasota, Mackey: "Chaos, Fractals, Noise"
 * [BOLLT] Bollt, Santitissadeekorn: "Applied and Computational Measurable Dynamics"
@@ -71,7 +78,7 @@ If you miss the class, there will be no way of making up the quiz. I will drop e
 
 ### Homeworks
 
-There will be at least 6 homework, requiring you to perform either pen-and-pencil calculations, or computational analysis of some problems. **All homeworks are due in the last week of the semester.** You can submit them earlier though (as soon as you complete them), especially if you would like to have feedback on them ahead of the exams.
+There will be at least 6 homeworks, requiring you to perform either pen-and-pencil calculations and computational analysis of some problems. **All homeworks are due in the last week of the semester.** You can submit them earlier though (as soon as you complete them), especially if you would like to have feedback on them ahead of the exams.
 
 ### Project
 
