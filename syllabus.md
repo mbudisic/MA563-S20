@@ -65,7 +65,7 @@ I expect you to attend all the lectures. If you are absent, please send me an e-
 
 ### Quizzes
 
-Once per week, on Monday, there will be a quick one-question quiz at the beginning of the class. The purpose is to test the vocabulary/definitions from the previous week's material and the reading assigned for the Monday's class.
+Once per week, on Monday, there will be a quick 5 minute quiz at the beginning of the class. The purpose is to test the vocabulary/definitions from the previous week's material and the reading assigned for the Monday's class.
 
 If you miss the class, there will be no way of making up the quiz. I will drop everyone's 3 lowest grades to allow for unexpected/unexcused absences.
 
@@ -152,23 +152,25 @@ The permission to use notes, textbook, etc. does not equal permission to copy fr
 
 ## Additional Resources
 
-#### Other useful textbooks
+### Other useful textbooks
 
 *  Strogatz, Steven H. 2000. Nonlinear Dynamics and Chaos ;Steven H. Strogatz with Applications to Physics, Biology, Chemistry, and Engineering. Cambridge, Mass. : Westview,. [**Undergraduate book with many interesting applications and examples. Classic of the field.**]
 *  Guckenheimer, John, and Philip Holmes. 1986. Nonlinear Oscillations, Dynamical Systems, and Bifurcations of Vector Fields. New york,. [**Long-time favorite book that covers many important topics.**]
 
-#### Non-technical books about the field
+### Non-technical books about the field
 
 * Gleick, James. 1988. Chaos: Making a New Science. Penguin. [**Book that got me interested in this field.**]
 * Diacu, Florin., and Philip Holmes. 1999. Celestial Encounters : The Origins of Chaos and Stability. Princeton, N.J. : Princeton University Press,. [**A wonderful read about Poincare's work.**]
 
-#### Community
+### Community
 
 SIAM Activity Group on Dynamical Systems is the primary community for applied dynamical systems. We maintain the [Dynamical Systems Web](https://dsweb.siam.org/) where you can get informed about the latest trends, software, and conferences on dynamics.
 
 The largest conference is SIAM Conference on Applications of Dynamical Systems (SIAM DS), [held for many years in Snowbird, UT](https://www.siam.org/conferences/cm/conference/ds19), but now [moving to Portland, OR](https://www.siam.org/conferences/cm/conference/ds21).
 
-**Should I join SIAM? What's SIAM again?** SIAM -- Society for Industrial and Applied Mathematics is the main professional society for most faculty and students at Clarkson's Department of Mathematics. [**Membership for our students is free**, so you should join right away (click here)](https://www.siam.org/Membership/Join-SIAM/Individual-Members/Student) (before the class begins).
+### Should I join SIAM? Yes.
+
+**What's SIAM again?** SIAM -- Society for Industrial and Applied Mathematics is the main professional society for most faculty and students at Clarkson's Department of Mathematics. [**Membership for our students is free**, so you should join right away (click here)](https://www.siam.org/Membership/Join-SIAM/Individual-Members/Student) (before the class begins).
 
 
 {% include_relative abbrevs.md %}
