@@ -1,6 +1,6 @@
 ---
-title: MA563 Syllabus
-description: 'Applied Dynamical Systems as taught in Spring 2020 by Dr. Marko Budišić, Clarkson University'
+title: MA563 Applied Dynamical Systems
+description: 'Syllabus as taught in Spring 2020 by Dr. Marko Budišić, Clarkson University'
 ---
 {::options toc_levels="1..3" /}
 
@@ -25,10 +25,12 @@ It is intended as an introduction into topics of active research in applied dyna
 
 By the end of the class, successful students will:
 
-* have a basic vocabulary in chaos theory, bifurcation analysis, and statistical description of dynamics,
+* have a basic vocabulary in **chaos theory**, **bifurcation analysis**, and **statistical description of dynamics**,
 * be able to analyze model systems analytically, and explain where the interest in each of the topics arises in those systems,
 * familiarize themselves with computational tools/approaches to studying each of the topics,
 * explore the dynamical systems more deeply through a longer project.
+
+A detailed breakdown of the topics is given in [on a separate page](./schedule.html).
 
 ## Topics and textbook
 
