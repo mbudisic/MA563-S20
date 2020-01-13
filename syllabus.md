@@ -9,23 +9,26 @@ description: 'Applied Dynamical Systems as taught in Spring 2020 by Dr. Marko Bu
 
 ## Instructor
 
-Marko Budišić
+Marko Budišić  ---   <mbudisic@clarkson.edu> (put "MA563" in subject line somewhere)
 
  - Office: SC391
- - Walk-in office hours: MWF 10-11a (90 min after class)
- - Contact: marko@clarkson.edu (put "MAXYZ" in subject line somewhere) or via Moodle
+ - Walk-in office hours: MWF 10-11.30a (90 min after class)
+ - Other office hours available by e-mail appointment
+ - Office phone: x3742
  - Website: [http://people.clarkson.edu/~mbudisic](http://people.clarkson.edu/~mbudisic)
 
 ## Summary of the class
 
-One page summary
+This is a graduate class in applied dynamical systems. It can be thought of either as a continuation of MA533 (Graduate ODEs) or MA332 (Intermediate ODEs for Undergraduates).
 
-Topics covered:
+It is intended as an introduction into topics of active research in applied dynamical systems. Therefore, the course is not one coherent whole, but a three-station sampling dinner intended on getting students' feet wet in several topics, but not wandering too deep in all of them.
 
-* One
-* Two
-* ... etc
+By the end of the class, successful students will:
 
+* have a basic vocabulary in chaos theory, bifurcation analysis, and statistical description of dynamics,
+* be able to analyze model systems analytically, and explain where the interest in each of the topics arises in those systems,
+* familiarize themselves with computational tools/approaches to studying each of the topics,
+* explore the dynamical systems more deeply through a longer project.
 
 ## Topics and textbook
 
@@ -56,13 +59,17 @@ For some parts, we will rely on linear stability of differential equations, that
 
 In class, you are expected to work on assigned problems, discuss, ask questions, and otherwise participate. If I notice that you haven't spoken in a while, I will call on you to answer a question. To prepare, read the assigned material/notes ahead of the class.
 
+I expect you to attend all the lectures. If you are absent, please send me an e-mail with a heads-up. You may be additionally required to peer-grade projects or even some other assignments.
+
 ### Quizzes
 
 Once per week, on Monday, there will be a quick one-question quiz at the beginning of the class. The purpose is to test the vocabulary/definitions from the previous week's material and the reading assigned for the Monday's class.
 
+If you miss the class, there will be no way of making up the quiz. I will drop everyone's 3 lowest grades to allow for unexpected/unexcused absences.
+
 ### Homeworks
 
-There will be at least 6 homework, requiring you to perform either pen-and-pencil calculations, or computational analysis of some problems. All homeworks are due in the last week of the semester. You can submit them earlier though (as soon as you complete them), especially if you would like to have feedback on them ahead of the exams.
+There will be at least 6 homework, requiring you to perform either pen-and-pencil calculations, or computational analysis of some problems. **All homeworks are due in the last week of the semester.** You can submit them earlier though (as soon as you complete them), especially if you would like to have feedback on them ahead of the exams.
 
 ### Project
 
@@ -81,6 +88,8 @@ It is possible to propose a completely-theoretical project, but not a completely
 2. On the last day of class you will submit a **typed report on your project**. I will produce an official template that you will [clone using `git`](https://medium.com/@rvprasad/a-git-workflow-for-writing-papers-in-latex-4cfb31be4b06) and work on using either [Overleaf](https://www.overleaf.com/) or [local installation of LaTeX](https://www.latex-project.org/get/).
 3. In the final week, likely during the official final exam timeslot, I will schedule time for us to meet and present **10-min project presentations** to the class.
 
+**If you would like to [present your project at RAPS (Apr 17)](https://www.clarkson.edu/research-projects-showcase-raps), encouraged especially for students interested in dynamical systems, please let me know as early as you register that desire. You can definitely complete your project earlier in the semester, and then focus on the homeworks.**
+
 ### Exams
 
 There will be an in-class midterm following each of the first two topics (Chaos, Bifurcations).
@@ -94,9 +103,9 @@ What is tailored credit? It allows you to show committment to learning that is "
 * classroom participation, by regularly asking questions that contribute to the discussions,
 * projects, by working on a particularly challenging project, or delivering a particularly polished presentation (think conference-level),
 * submitted work, by having tidy, comprehensive, detailed homeworks and/or exams,
-* taking notes: if I have 2-3 volunteers, I will waive your requirement to do quizzes, and instead have you transcribe notes for the class for the full 10% of the grade. This could go even higher, in case I have only 1 volunteer who wants to do all the notes, allowing you to "replace" some homework credit.
+* taking notes: if I have 2-3 volunteer notetakers, I will waive their requirement to do quizzes, and instead have them transcribe notes for the class in LaTeX for the full 10% of the grade, including tailored credit. This could go even higher, in case I have only 1 volunteer who wants to do all the notes, allowing you to even replace/augment some homework credit.
 
-Note: tailored credit is something that requires a semester-long committment, not just a last-minute grade bump.
+**Note:** tailored credit is something that requires a semester-long committment, not just a last-minute grade bump.
 
 ## Assessment
 
@@ -107,7 +116,7 @@ Each piece of work (homework, exam, project) will be scored on a 3 point scale.
   * 2 - meets standards
   * 3 - exemplary
 
-To come up with the final grade, each category will be weighed according to the table below. The grade for the category will be a mean of grades of submitted work (e.g., grade for "Homework" will be a simple mean of all submitted homeworks).
+To come up with the final grade, each category will be weighed according to the table below. The grade for the category will be a mean of grades of submitted work (e.g., grade for "Homework" will be a simple mean of all submitted homeworks). To come up with a final grade, I then expect that the nearest-integer rounding of the weighed score results in the letter grade. However, I do reserve the right to intervene in this simple formula if I noticed inflation of the grade, or particularly low-scores throughout.
 
 | Component | Percentage |
 | --- | --- |
@@ -115,7 +124,7 @@ To come up with the final grade, each category will be weighed according to the 
 | Homeworks | 30%  |
 | Exams | 30%  |
 | Project | 30%  |
-| Extra credit | 5% |
+| Tailored credit | 5% |
 
 ## Accommodations
 
