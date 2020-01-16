@@ -2,20 +2,23 @@
 title: MA563 Applied Dynamical Systems
 description: 'Syllabus as taught in Spring 2020 by Dr. Marko Budišić, Clarkson University'
 ---
+
+**Note: This syllabus is subject to change. All changes will be announced and discussed in class.**
+
 {::options toc_levels="1..3" /}
 
 1. TOC
 {: toc style="font-size:10pt; column-count:3; column-width: 20px; column-gap: 20px;" }
 
+
 ## Instructor
 
-Marko Budišić  ---   <mbudisic@clarkson.edu> (put "MA563" in subject line somewhere)
+Marko Budišić  --- office phone: (315-268-)3742 ---   <mbudisic@clarkson.edu> (put "MA563" in subject line somewhere)
 
- - Office: SC391
- - Walk-in office hours: MWF 10-11.30a (90 min after class)
+ - Class Website: <https://mbudisic.github.io/MA563-S20> and on Moodle
+ - Walk-in office hours: MWF 10-11.30a (90 min after class) in SC391
  - Other office hours available by e-mail appointment
- - Office phone: x3742
- - Website: [http://people.clarkson.edu/~mbudisic](http://people.clarkson.edu/~mbudisic)
+ - Website: <http://people.clarkson.edu/~mbudisic>
 
 ## Summary of the class
 
@@ -127,13 +130,9 @@ Each piece of work (homework, exam, project) will be scored on a 3 point scale.
 
 To come up with the final grade, each category will be weighed according to the table below. The grade for the category will be a mean of grades of submitted work (e.g., grade for "Homework" will be a simple mean of all submitted homeworks). To come up with a final grade, I then expect that the nearest-integer rounding of the weighed score results in the letter grade. However, I do reserve the right to intervene in this simple formula if I noticed inflation of the grade, or particularly low-scores throughout.
 
-| Component | Percentage |
-| --- | --- |
-| Quizzes | 5% |
-| Homeworks | 30%  |
-| Exams | 30%  |
-| Project | 30%  |
-| Tailored credit | 5% |
+| **Component**  | Quizzes | Homeworks | Exams | Project | Tailored Credit |
+| **Percentage** | 5%  | 30% | 30% | 30% | 5% |
+
 
 ## Accommodations
 
