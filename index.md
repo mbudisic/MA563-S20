@@ -9,13 +9,13 @@ published: true
 
 In this course we will investigate dynamical systems that exhibit "interesting" behavior, due to nonlinear dependence on parameters, or due to chaotic dynamics.
 
-![](http://rogueplanet.tv/wp-content/uploads/2014/09/jurassic-park-jeff-goldblum-tyrannosaur.jpg){: style="float: right;margin: 15px;" width="35%"} Roughly speaking, we will devote our time to the study of three topics:
+![](img/logistic_bifurcation_zoom.png){: style="float: right;margin: 15px;" width="35%"} Roughly speaking, we will devote our time to the study of three topics:
 
 * [chaos in maps and ODEs](https://en.wikipedia.org/wiki/Chaos_theory)
 * [bifurcations](http://www.scholarpedia.org/article/Bifurcation)
 * [statistical properties of dynamics](https://www.pnas.org/content/112/7/1907)
 
-We will devote some time both to theory and to computational tools/methods that enable such analysis. The coursework will be heavy on homeworks and projects, but light on exams. There is no one textbook that covers all these topics (due to the piecewise-continuous nature of the course), but we will lean heavily on (in the order of progression of the material):
+![](img/logistic_trace_a2.png){: style="float: left;margin: 15px;" width="35%"}We will devote some time both to theory and to computational tools/methods that enable such analysis. The coursework will be heavy on homeworks and projects, but light on exams. There is no one textbook that covers all these topics (due to the piecewise-continuous nature of the course), but we will lean heavily on (in the order of progression of the material):
 
 * [ASY] Alligood, Sauer, Yorke: "Chaos"
 * [BIF] Kuznetsov: "Elements of Applied Bifurcation Theory"
@@ -23,7 +23,7 @@ We will devote some time both to theory and to computational tools/methods that 
 * [LM] Lasota, Mackey: "Chaos, Fractals, Noise"
 * [BOLLT] Bollt, Santitissadeekorn: "Applied and Computational Measurable Dynamics"
 
-I will provide you with handouts that cover the material in class, so you don't need to purchase a book. However, I do suggest that you buy the [ASY] textbook if you're interested in dynamical systems (especially if this is your research topic). It's an excellent introduction into dynamical systems, and can be found for $10-$20 used on <http://abebooks.com> and <http://amazon.com>. It's likely my favorite textbook on nonlinear dynamics.
+![](img/logistic_trace_a4.png){: style="float: right;margin: 15px;" width="35%"}I will provide you with handouts that cover the material in class, so you don't need to purchase a book. However, I do suggest that you buy the [ASY] textbook if you're interested in dynamical systems (especially if this is your research topic). It's an excellent introduction into dynamical systems, and can be found for $10-$20 used on <http://abebooks.com> and <http://amazon.com>. It's likely my favorite textbook on nonlinear dynamics.
 
 Finally, you should really know what Jurassic Park has to do with dynamical systems...
 
