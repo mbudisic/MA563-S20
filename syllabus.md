@@ -19,6 +19,9 @@ Marko Budišić  --- office phone: (315-268-)3742 ---   <mbudisic@clarkson.edu> 
  - Walk-in office hours: MWF 10-11.30a (90 min after class) in SC391
  - Other office hours available by e-mail appointment
  - Website: <http://people.clarkson.edu/~mbudisic>
+ - [Google Calendar Appointments](https://calendar.google.com/calendar/selfsched?sstoken=UUluN09LQVpzc19pfGRlZmF1bHR8MTZiNjA4Y2EwMDJiNjQ4YWY0MDlhNzRhNmQ4YjVhZmU)
+ – [Zoom: 3152683742](https://clarkson.zoom.us/j/3152683742)
+ – [Skype: live:marko_2842](https://join.skype.com/invite/DTVIKsdy2gOu)
 
 ## Summary of the class
 
